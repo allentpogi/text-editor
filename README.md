@@ -24,7 +24,7 @@ Run the command **npm run start** on the terminal to start the application.
 
 ## Usage
 The program is deployed to Heroku.
-URL: TBC
+URL: https://jate-editor-app-2934934312cb.herokuapp.com/
 
 ## Screenshot
 
